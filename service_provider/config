@@ -1,0 +1,7 @@
+/*All configurations will be done as a javascript object with
+ * intended use comments above. */
+
+{
+    /* this is my example conf*/
+    'example-conf':value
+};
